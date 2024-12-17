@@ -9,6 +9,7 @@ return n * fatorial(n - 1);
 int main() {
 system("chcp 65001>nul");
 int num;  
+printf("\n Este programa calcula o FATORIAL!");
 printf("Digite um número inteiro: ");    
 scanf("%d", &num); 
 printf("O fatorial de %d é %d\n", num, fatorial(num));    
