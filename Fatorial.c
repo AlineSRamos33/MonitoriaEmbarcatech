@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<stdlib.h>  // Modifiquei inserindo a biblioteca para teste
 int fatorial (int n) {   
 
 if (n == 0)        
